@@ -1,0 +1,806 @@
+﻿[
+  {
+    "Code": "VN0010001",
+    "Name": "Hội sở"
+  },
+  {
+    "Code": "VN0010001D0100",
+    "Name": "Hội đồng quản trị"
+  },
+  {
+    "Code": "VN0010001D0200",
+    "Name": "Văn phòng Hội đồng quản trị"
+  },
+  {
+    "Code": "VN0010001D0201",
+    "Name": "Ủy ban hội đồng trực thuộc Hội đồng quản trị"
+  },
+  {
+    "Code": "VN0010001D0202",
+    "Name": "Ủy ban nhân sự"
+  },
+  {
+    "Code": "VN0010001D0203",
+    "Name": "Ủy ban quản lý rủi ro"
+  },
+  {
+    "Code": "VN0010001D0204",
+    "Name": "Ủy ban chiến lược"
+  },
+  {
+    "Code": "VN0010001D0205",
+    "Name": "Ủy ban chuyển đổi và ngân hàng số"
+  },
+  {
+    "Code": "VN0010001D0400",
+    "Name": "Kiểm toán nội bộ"
+  },
+  {
+    "Code": "VN0010001D0500",
+    "Name": "Ban điều hành"
+  },
+  {
+    "Code": "VN0010001D0600",
+    "Name": "Khối Khách hàng cá nhân"
+  },
+  {
+    "Code": "VN0010001D0700",
+    "Name": "Khối Ngân hàng bán buôn"
+  },
+  {
+    "Code": "VN0010001D0700-01",
+    "Name": "TTKD Ngân hàng bán buôn Miền Bắc"
+  },
+  {
+    "Code": "VN0010001D0700-02",
+    "Name": "TTKD Ngân hàng bán buôn Miền Nam"
+  },
+  {
+    "Code": "VN0010001D0800",
+    "Name": "Khối Nguồn vốn thị trường tài chính"
+  },
+  {
+    "Code": "VN0010001D0900",
+    "Name": "Khối Phê duyệt tín dụng"
+  },
+  {
+    "Code": "VN0010001D1000",
+    "Name": "Ban Xử lý nợ"
+  },
+  {
+    "Code": "VN0010001D1100",
+    "Name": "Ban pháp chế và tuân thủ"
+  },
+  {
+    "Code": "VN0010001D1104",
+    "Name": "Phòng phòng chống rửa tiền, phòng chống gian lận và tham nhũng"
+  },
+  {
+    "Code": "VN0010001D1200",
+    "Name": "Khối Vận hành"
+  },
+  {
+    "Code": "VN0010001D1300",
+    "Name": "Khối Kế toán"
+  },
+  {
+    "Code": "VN0010001D1400",
+    "Name": "Khối Quản trị rủi ro, Pháp chế và Tuân thủ"
+  },
+  {
+    "Code": "VN0010001D1500",
+    "Name": "Khối Công nghệ ngân hàng"
+  },
+  {
+    "Code": "VN0010001D1600",
+    "Name": "Khối Quản trị nguồn nhân lực"
+  },
+  {
+    "Code": "VN0010001D1700",
+    "Name": "Khối Tổng hợp"
+  },
+  {
+    "Code": "VN0010001D1800",
+    "Name": "Khối KHDN vừa và nhỏ SMEs"
+  },
+  {
+    "Code": "VN0010001D2000",
+    "Name": "Ban tài chính"
+  },
+  {
+    "Code": "VN0010001D2200",
+    "Name": "Khối Bán hàng và dịch vụ (SSD)"
+  },
+  {
+    "Code": "VN0010001D2300",
+    "Name": "Văn phòng Chuyển đổi"
+  },
+  {
+    "Code": "VN0010001D2400",
+    "Name": "Khối Ngân hàng số và Dữ liệu"
+  },
+  {
+    "Code": "VN0010001D2500",
+    "Name": "Khối Tài chính kế toán"
+  },
+  {
+    "Code": "VN0010001D2600",
+    "Name": "Khối Marketing"
+  },
+  {
+    "Code": "VN0010001D9901",
+    "Name": "Ban dự án LOS"
+  },
+  {
+    "Code": "VN0010001D9902",
+    "Name": "Tổ Thư ký-Trợ lý"
+  },
+  {
+    "Code": "VN0010001D9903",
+    "Name": "Khối Văn phòng"
+  },
+  {
+    "Code": "VN0010002",
+    "Name": "ABBANK An Giang"
+  },
+  {
+    "Code": "VN0010003",
+    "Name": "ABBANK Bình Dương"
+  },
+  {
+    "Code": "VN0010004",
+    "Name": "ABBANK An Nghiệp"
+  },
+  {
+    "Code": "VN0010005",
+    "Name": "ABBANK Cần Thơ"
+  },
+  {
+    "Code": "VN0010006",
+    "Name": "ABBANK Đà Nẵng"
+  },
+  {
+    "Code": "VN0010007",
+    "Name": "ABBANK Hùng Vương"
+  },
+  {
+    "Code": "VN0010008",
+    "Name": "ABBANK Đồng Nai"
+  },
+  {
+    "Code": "VN0010009",
+    "Name": "ABBANK Đồng Tháp"
+  },
+  {
+    "Code": "VN0010010",
+    "Name": "ABBANK Hồ Gươm"
+  },
+  {
+    "Code": "VN0010011",
+    "Name": "ABBANK Hà Nội"
+  },
+  {
+    "Code": "VN0010012",
+    "Name": "ABBANK Nguyễn Văn Cừ"
+  },
+  {
+    "Code": "VN0010013",
+    "Name": "ABBANK Đống Đa"
+  },
+  {
+    "Code": "VN0010014",
+    "Name": "ABBANK Trần Đăng Ninh"
+  },
+  {
+    "Code": "VN0010015",
+    "Name": "ABBANK Trần Khát Chân"
+  },
+  {
+    "Code": "VN0010016",
+    "Name": "ABBANK Bình Tân"
+  },
+  {
+    "Code": "VN0010017",
+    "Name": "ABBANK Khánh Hội"
+  },
+  {
+    "Code": "VN0010018",
+    "Name": "ABBANK Cộng Hòa"
+  },
+  {
+    "Code": "VN0010019",
+    "Name": "ABBANK Thành Đô"
+  },
+  {
+    "Code": "VN0010020",
+    "Name": "ABBANK Phú Mỹ Hưng"
+  },
+  {
+    "Code": "VN0010021",
+    "Name": "ABBANK Dân Sinh"
+  },
+  {
+    "Code": "VN0010022",
+    "Name": "ABBANK Lũy Bán Bích"
+  },
+  {
+    "Code": "VN0010023",
+    "Name": "ABBANK Đa Kao"
+  },
+  {
+    "Code": "VN0010024",
+    "Name": "ABBANK Chợ Lớn"
+  },
+  {
+    "Code": "VN0010025",
+    "Name": "ABBANK Hậu Giang"
+  },
+  {
+    "Code": "VN0010026",
+    "Name": "ABBANK Tân Phú"
+  },
+  {
+    "Code": "VN0010027",
+    "Name": "ABBANK Quang Trung"
+  },
+  {
+    "Code": "VN0010028",
+    "Name": "ABBANK Long An"
+  },
+  {
+    "Code": "VN0010029",
+    "Name": "ABBANK Sài Gòn"
+  },
+  {
+    "Code": "VN0010030",
+    "Name": "ABBANK Dân Chủ"
+  },
+  {
+    "Code": "VN0010031",
+    "Name": "ABBANK Vĩnh Long"
+  },
+  {
+    "Code": "VN0010032",
+    "Name": "ABBANK Bà Rịa - Vũng Tàu"
+  },
+  {
+    "Code": "VN0010033",
+    "Name": "ABBANK Quán Thánh"
+  },
+  {
+    "Code": "VN0010034",
+    "Name": "ABBANK Lê Trọng Tấn"
+  },
+  {
+    "Code": "VN0010035",
+    "Name": "ABBANK Bắc Ninh"
+  },
+  {
+    "Code": "VN0010036",
+    "Name": "ABBANK Quảng Nam"
+  },
+  {
+    "Code": "VN0010037",
+    "Name": "ABBANK Thừa Thiên Huế"
+  },
+  {
+    "Code": "VN0010038",
+    "Name": "ABBANK Bắc Sài Gòn"
+  },
+  {
+    "Code": "VN0010039",
+    "Name": "ABBANK Gia Định"
+  },
+  {
+    "Code": "VN0010040",
+    "Name": "ABBANK Trường Chinh"
+  },
+  {
+    "Code": "VN0010041",
+    "Name": "ABBANK Bình Phước"
+  },
+  {
+    "Code": "VN0010042",
+    "Name": "ABBANK Kỳ Hòa"
+  },
+  {
+    "Code": "VN0010043",
+    "Name": "ABBANK Lê Văn Việt"
+  },
+  {
+    "Code": "VN0010044",
+    "Name": "ABBANK Phú Nhuận"
+  },
+  {
+    "Code": "VN0010045",
+    "Name": "ABBANK Trưng Nữ Vương"
+  },
+  {
+    "Code": "VN0010046",
+    "Name": "ABBANK Bình Thuận"
+  },
+  {
+    "Code": "VN0010047",
+    "Name": "ABBANK Tây Ninh"
+  },
+  {
+    "Code": "VN0010048",
+    "Name": "ABBANK Hưng Yên"
+  },
+  {
+    "Code": "VN0010049",
+    "Name": "ABBANK Hà Đông"
+  },
+  {
+    "Code": "VN0010050",
+    "Name": "ABBANK Phố Huế"
+  },
+  {
+    "Code": "VN0010051",
+    "Name": "ABBANK Thái Nguyên"
+  },
+  {
+    "Code": "VN0010052",
+    "Name": "ABBANK TpHCM"
+  },
+  {
+    "Code": "VN0010053",
+    "Name": "ABBANK Kiên Giang"
+  },
+  {
+    "Code": "VN0010054",
+    "Name": "ABBANK Nam Đà Nẵng"
+  },
+  {
+    "Code": "VN0010055",
+    "Name": "ABBANK Minh Khai"
+  },
+  {
+    "Code": "VN0010056",
+    "Name": "ABBANK Đông Bến Thành"
+  },
+  {
+    "Code": "VN0010057",
+    "Name": "-Branch VN0010057-"
+  },
+  {
+    "Code": "VN0010058",
+    "Name": "ABBANK Tiền Giang"
+  },
+  {
+    "Code": "VN0010059",
+    "Name": "ABBANK Vĩnh Phúc"
+  },
+  {
+    "Code": "VN0010060",
+    "Name": "ABBANK Tây Sài Gòn"
+  },
+  {
+    "Code": "VN0010061",
+    "Name": "ABBANK Đội Cấn"
+  },
+  {
+    "Code": "VN0010062",
+    "Name": "ABBANK Phó Cơ Điều"
+  },
+  {
+    "Code": "VN0010063",
+    "Name": "ABBANK Bình Thủy"
+  },
+  {
+    "Code": "VN0010064",
+    "Name": "ABBANK Vũng Tàu"
+  },
+  {
+    "Code": "VN0010065",
+    "Name": "ABBANK Bà Rịa"
+  },
+  {
+    "Code": "VN0010067",
+    "Name": "ABBANK Bến Cát"
+  },
+  {
+    "Code": "VN0010068",
+    "Name": "ABBANK Sơn La"
+  },
+  {
+    "Code": "VN0010069",
+    "Name": "ABBANK Bạc Liêu"
+  },
+  {
+    "Code": "VN0010070",
+    "Name": "ABBANK Lò Đúc"
+  },
+  {
+    "Code": "VN0010071",
+    "Name": "ABBANK Thuận An"
+  },
+  {
+    "Code": "VN0010072",
+    "Name": "ABBANK Quảng Ninh"
+  },
+  {
+    "Code": "VN0010073",
+    "Name": "ABBANK Khánh Hòa"
+  },
+  {
+    "Code": "VN0010074",
+    "Name": "ABBANK Gia Lai"
+  },
+  {
+    "Code": "VN0010075",
+    "Name": "ABBANK Hải Phòng"
+  },
+  {
+    "Code": "VN0010076",
+    "Name": "ABBANK Cái Răng"
+  },
+  {
+    "Code": "VN0010077",
+    "Name": "ABBANK Đào Tấn"
+  },
+  {
+    "Code": "VN0010078",
+    "Name": "ABBANK Sông Hàn"
+  },
+  {
+    "Code": "VN0010079",
+    "Name": "ABBANK Đinh Tiên Hoàng"
+  },
+  {
+    "Code": "VN0010080",
+    "Name": "ABBANK Đông Anh"
+  },
+  {
+    "Code": "VN0010081",
+    "Name": "ABBANK Chánh Hưng"
+  },
+  {
+    "Code": "VN0010082",
+    "Name": "ABBANK Đại Kim"
+  },
+  {
+    "Code": "VN0010083",
+    "Name": "ABBANK Mỹ Đình"
+  },
+  {
+    "Code": "VN0010084",
+    "Name": "ABBANK Tân Bình"
+  },
+  {
+    "Code": "VN0010085",
+    "Name": "ABBANK Phú Giáo"
+  },
+  {
+    "Code": "VN0010086",
+    "Name": "ABBANK Thống Nhất"
+  },
+  {
+    "Code": "VN0010087",
+    "Name": "ABBANK Mai Sơn"
+  },
+  {
+    "Code": "VN0010088",
+    "Name": "ABBANK Hải Châu"
+  },
+  {
+    "Code": "VN0010089",
+    "Name": "ABBANK Cẩm Phả"
+  },
+  {
+    "Code": "VN0010090",
+    "Name": "ABBANK Liên Chiểu"
+  },
+  {
+    "Code": "VN0010091",
+    "Name": "ABBANK Bến Nghé"
+  },
+  {
+    "Code": "VN0010092",
+    "Name": "ABBANK Ngô Quyền"
+  },
+  {
+    "Code": "VN0010093",
+    "Name": "ABBANK Tân Uyên"
+  },
+  {
+    "Code": "VN0010094",
+    "Name": "ABBANK Nha Trang"
+  },
+  {
+    "Code": "VN0010095",
+    "Name": "ABBANK Tân Thuận"
+  },
+  {
+    "Code": "VN0010096",
+    "Name": "ABBANK Quang Trung Hà Đông"
+  },
+  {
+    "Code": "VN0010097",
+    "Name": "ABBANK Dầu Tiếng"
+  },
+  {
+    "Code": "VN0010098",
+    "Name": "ABBANK Trung Chánh"
+  },
+  {
+    "Code": "VN0010099",
+    "Name": "ABBANK Soái Kình Lâm"
+  },
+  {
+    "Code": "VN0010100",
+    "Name": "ABBANK Yên Phong"
+  },
+  {
+    "Code": "VN0010102",
+    "Name": "ABBANK Tây Hồ"
+  },
+  {
+    "Code": "VN0010103",
+    "Name": "ABBANK Từ Sơn"
+  },
+  {
+    "Code": "VN0010104",
+    "Name": "ABBANK KBANG"
+  },
+  {
+    "Code": "VN0010105",
+    "Name": "ABBANK Đông Hà Nội"
+  },
+  {
+    "Code": "VN0010106",
+    "Name": "ABBANK Bến Thành"
+  },
+  {
+    "Code": "VN0010107",
+    "Name": "ABBANK Tô Hiến Thành"
+  },
+  {
+    "Code": "VN0010108",
+    "Name": "ABBANK Mộc Châu"
+  },
+  {
+    "Code": "VN0010109",
+    "Name": "ABBANK Chợ Biên Hòa"
+  },
+  {
+    "Code": "VN0010110",
+    "Name": "ABBANK Uông Bí"
+  },
+  {
+    "Code": "VN0010111",
+    "Name": "ABBANK Sóc Trăng"
+  },
+  {
+    "Code": "VN0010112",
+    "Name": "ABBANK Bến Lức"
+  },
+  {
+    "Code": "VN0010113",
+    "Name": "ABBANK Minh Phụng"
+  },
+  {
+    "Code": "VN0010114",
+    "Name": "ABBANK Đông Ba"
+  },
+  {
+    "Code": "VN0010115",
+    "Name": "ABBANK Tao Đàn"
+  },
+  {
+    "Code": "VN0010116",
+    "Name": "ABBANK Tây Hà Nội"
+  },
+  {
+    "Code": "VN0010117",
+    "Name": "ABBANK Bàn Cờ"
+  },
+  {
+    "Code": "VN0010118",
+    "Name": "ABBANK Phố Hiến"
+  },
+  {
+    "Code": "VN0010119",
+    "Name": "ABBANK Quyết Tâm"
+  },
+  {
+    "Code": "VN0010120",
+    "Name": "ABBANK Quyết Thắng"
+  },
+  {
+    "Code": "VN0010121",
+    "Name": "ABBANK Núi Thành"
+  },
+  {
+    "Code": "VN0010122",
+    "Name": "ABBANK Hoàng Cầu"
+  },
+  {
+    "Code": "VN0010123",
+    "Name": "ABBANK Long Thành"
+  },
+  {
+    "Code": "VN0010124",
+    "Name": "ABBANK Cam Ranh"
+  },
+  {
+    "Code": "VN0010125",
+    "Name": "ABBANK Hoàng Mai"
+  },
+  {
+    "Code": "VN0010126",
+    "Name": "ABBANK Nguyễn Chánh"
+  },
+  {
+    "Code": "VN0010127",
+    "Name": "ABBANK Nam Thăng Long"
+  },
+  {
+    "Code": "VN0010128",
+    "Name": "ABBANK Trung Yên"
+  },
+  {
+    "Code": "VN0010129",
+    "Name": "ABBANK Vĩnh Yên"
+  },
+  {
+    "Code": "VN0010130",
+    "Name": "ABBANK Hố Nai"
+  },
+  {
+    "Code": "VN0010131",
+    "Name": "ABBANK Phổ Yên"
+  },
+  {
+    "Code": "VN0010132",
+    "Name": "ABBANK Trần Nguyên Hãn"
+  },
+  {
+    "Code": "VN0010133",
+    "Name": "ABBANK An Khánh"
+  },
+  {
+    "Code": "VN0010134",
+    "Name": "ABBANK Bắc Thăng Long"
+  },
+  {
+    "Code": "VN0010135",
+    "Name": "ABBANK Nguyễn Huệ"
+  },
+  {
+    "Code": "VN0010136",
+    "Name": "ABBANK PLEIKU"
+  },
+  {
+    "Code": "VN0010137",
+    "Name": "ABBANK Mỏ Bạch"
+  },
+  {
+    "Code": "VN0010138",
+    "Name": "ABBANK Phước Tỉnh"
+  },
+  {
+    "Code": "VN0010139",
+    "Name": "ABBANK Sốp Cộp"
+  },
+  {
+    "Code": "VN0010140",
+    "Name": "ABBANK Phúc Yên"
+  },
+  {
+    "Code": "VN0010141",
+    "Name": "ABBANK Mạo Khê"
+  },
+  {
+    "Code": "VN0010142",
+    "Name": "ABBANK Văn Lâm"
+  },
+  {
+    "Code": "VN0010143",
+    "Name": "ABBANK Đông Hải Phòng"
+  },
+  {
+    "Code": "VN0010144",
+    "Name": "ABBANK Bình Long"
+  },
+  {
+    "Code": "VN0010145",
+    "Name": "ABBANK Sông Mã"
+  },
+  {
+    "Code": "VN0010146",
+    "Name": "ABBANK Xuân Hòa"
+  },
+  {
+    "Code": "VN0010147",
+    "Name": "ABBANK Khoái Châu"
+  },
+  {
+    "Code": "VN0010148",
+    "Name": "ABBANK Yên Lạc"
+  },
+  {
+    "Code": "VN0010149",
+    "Name": "ABBANK Ba Mươi Tháng Tư"
+  },
+  {
+    "Code": "VN0010150",
+    "Name": "ABBANK Hội An"
+  },
+  {
+    "Code": "VN0010154",
+    "Name": "ABBANK Nghệ An"
+  },
+  {
+    "Code": "VN0010155",
+    "Name": "ABBANK Lạng Sơn"
+  },
+  {
+    "Code": "VN0010156",
+    "Name": "ABBANK Thanh Hóa"
+  },
+  {
+    "Code": "VN0010157",
+    "Name": "ABBANK Thái Bình"
+  },
+  {
+    "Code": "VN0010158",
+    "Name": "ABBANK Điện Biên"
+  },
+  {
+    "Code": "VN0010159",
+    "Name": "ABBANK Gò Dầu"
+  },
+  {
+    "Code": "VN0010160",
+    "Name": "ABBANK Chơn Thành"
+  },
+  {
+    "Code": "VN0010161",
+    "Name": "ABBANK Chư Sê"
+  },
+  {
+    "Code": "VN0010162",
+    "Name": "ABBANK Hồng Ngự"
+  },
+  {
+    "Code": "VN0010163",
+    "Name": "ABBANK Lộc Ninh"
+  },
+  {
+    "Code": "VN0010164",
+    "Name": "ABBANK Tân Châu"
+  },
+  {
+    "Code": "VN0010165",
+    "Name": "ABBANK Vạn Ninh"
+  },
+  {
+    "Code": "VN0010166",
+    "Name": "ABBANK Đại Từ"
+  },
+  {
+    "Code": "VN0010167",
+    "Name": "ABBANK Thuận Thành"
+  },
+  {
+    "Code": "VN0010168",
+    "Name": "ABBANK Đức Hòa"
+  },
+  {
+    "Code": "VN0010169",
+    "Name": "ABBANK Tánh Linh"
+  },
+  {
+    "Code": "VN0010170",
+    "Name": "ABBANK Phú Bài"
+  },
+  {
+    "Code": "VN0010171",
+    "Name": "ABBANK Nam Phước"
+  },
+  {
+    "Code": "VN0010172",
+    "Name": "ABBANK Đại Lộc"
+  }
+]
