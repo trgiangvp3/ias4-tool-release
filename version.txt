@@ -1,5 +1,5 @@
-25.1.1
-http://ktnb.abbank.vn/IASTool/v25.1.1.zip
+25.2.0
+https://abbankvn-my.sharepoint.com/:f:/g/personal/giangnt3_abbank_vn/IgAd3KRUT6H3Q5dTt4wFqLNcASmgcukfxCDUt25EOSBEVug?e=mDl6cW
 force=true
 - Cập nhật insert ảnh MB08a => MB09a
 - Cập nhật template MB08a, MB09a, MB10b...
