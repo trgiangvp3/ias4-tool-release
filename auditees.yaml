@@ -1,0 +1,403 @@
+﻿auditees:
+- code: VN0010001
+  name: Hội sở
+- code: VN0010001D0100
+  name: Hội đồng quản trị
+- code: VN0010001D0200
+  name: Văn phòng Hội đồng quản trị
+- code: VN0010001D0201
+  name: Ủy ban hội đồng trực thuộc Hội đồng quản trị
+- code: VN0010001D0202
+  name: Ủy ban nhân sự
+- code: VN0010001D0203
+  name: Ủy ban quản lý rủi ro
+- code: VN0010001D0204
+  name: Ủy ban chiến lược
+- code: VN0010001D0205
+  name: Ủy ban chuyển đổi và ngân hàng số
+- code: VN0010001D0400
+  name: Kiểm toán nội bộ
+- code: VN0010001D0500
+  name: Ban điều hành
+- code: VN0010001D0600
+  name: Khối Khách hàng cá nhân
+- code: VN0010001D0700
+  name: Khối Ngân hàng bán buôn
+- code: VN0010001D0700-01
+  name: TTKD Ngân hàng bán buôn Miền Bắc
+- code: VN0010001D0700-02
+  name: TTKD Ngân hàng bán buôn Miền Nam
+- code: VN0010001D0800
+  name: Khối Nguồn vốn thị trường tài chính
+- code: VN0010001D0900
+  name: Khối Phê duyệt tín dụng
+- code: VN0010001D1000
+  name: Ban Xử lý nợ
+- code: VN0010001D1100
+  name: Ban pháp chế và tuân thủ
+- code: VN0010001D1104
+  name: Phòng phòng chống rửa tiền, phòng chống gian lận và tham nhũng
+- code: VN0010001D1200
+  name: Khối Vận hành
+- code: VN0010001D1300
+  name: Khối Kế toán
+- code: VN0010001D1400
+  name: Khối Quản trị rủi ro, Pháp chế và Tuân thủ
+- code: VN0010001D1500
+  name: Khối Công nghệ ngân hàng
+- code: VN0010001D1600
+  name: Khối Quản trị nguồn nhân lực
+- code: VN0010001D1700
+  name: Khối Tổng hợp
+- code: VN0010001D1800
+  name: Khối KHDN vừa và nhỏ SMEs
+- code: VN0010001D2000
+  name: Ban tài chính
+- code: VN0010001D2200
+  name: Khối Bán hàng và dịch vụ (SSD)
+- code: VN0010001D2300
+  name: Văn phòng Chuyển đổi
+- code: VN0010001D2400
+  name: Khối Ngân hàng số và Dữ liệu
+- code: VN0010001D2500
+  name: Khối Tài chính kế toán
+- code: VN0010001D2600
+  name: Khối Marketing
+- code: VN0010001D9901
+  name: Ban dự án LOS
+- code: VN0010001D9902
+  name: Tổ Thư ký-Trợ lý
+- code: VN0010001D9903
+  name: Khối Văn phòng
+- code: VN0010002
+  name: ABBANK An Giang
+- code: VN0010003
+  name: ABBANK Bình Dương
+- code: VN0010004
+  name: ABBANK An Nghiệp
+- code: VN0010005
+  name: ABBANK Cần Thơ
+- code: VN0010006
+  name: ABBANK Đà Nẵng
+- code: VN0010007
+  name: ABBANK Hùng Vương
+- code: VN0010008
+  name: ABBANK Đồng Nai
+- code: VN0010009
+  name: ABBANK Đồng Tháp
+- code: VN0010010
+  name: ABBANK Hồ Gươm
+- code: VN0010011
+  name: ABBANK Hà Nội
+- code: VN0010012
+  name: ABBANK Nguyễn Văn Cừ
+- code: VN0010013
+  name: ABBANK Đống Đa
+- code: VN0010014
+  name: ABBANK Trần Đăng Ninh
+- code: VN0010015
+  name: ABBANK Trần Khát Chân
+- code: VN0010016
+  name: ABBANK Bình Tân
+- code: VN0010017
+  name: ABBANK Khánh Hội
+- code: VN0010018
+  name: ABBANK Cộng Hòa
+- code: VN0010019
+  name: ABBANK Thành Đô
+- code: VN0010020
+  name: ABBANK Phú Mỹ Hưng
+- code: VN0010021
+  name: ABBANK Dân Sinh
+- code: VN0010022
+  name: ABBANK Lũy Bán Bích
+- code: VN0010023
+  name: ABBANK Đa Kao
+- code: VN0010024
+  name: ABBANK Chợ Lớn
+- code: VN0010025
+  name: ABBANK Hậu Giang
+- code: VN0010026
+  name: ABBANK Tân Phú
+- code: VN0010027
+  name: ABBANK Quang Trung
+- code: VN0010028
+  name: ABBANK Long An
+- code: VN0010029
+  name: ABBANK Sài Gòn
+- code: VN0010030
+  name: ABBANK Dân Chủ
+- code: VN0010031
+  name: ABBANK Vĩnh Long
+- code: VN0010032
+  name: ABBANK Bà Rịa - Vũng Tàu
+- code: VN0010033
+  name: ABBANK Quán Thánh
+- code: VN0010034
+  name: ABBANK Lê Trọng Tấn
+- code: VN0010035
+  name: ABBANK Bắc Ninh
+- code: VN0010036
+  name: ABBANK Quảng Nam
+- code: VN0010037
+  name: ABBANK Thừa Thiên Huế
+- code: VN0010038
+  name: ABBANK Bắc Sài Gòn
+- code: VN0010039
+  name: ABBANK Gia Định
+- code: VN0010040
+  name: ABBANK Trường Chinh
+- code: VN0010041
+  name: ABBANK Bình Phước
+- code: VN0010042
+  name: ABBANK Kỳ Hòa
+- code: VN0010043
+  name: ABBANK Lê Văn Việt
+- code: VN0010044
+  name: ABBANK Phú Nhuận
+- code: VN0010045
+  name: ABBANK Trưng Nữ Vương
+- code: VN0010046
+  name: ABBANK Bình Thuận
+- code: VN0010047
+  name: ABBANK Tây Ninh
+- code: VN0010048
+  name: ABBANK Hưng Yên
+- code: VN0010049
+  name: ABBANK Hà Đông
+- code: VN0010050
+  name: ABBANK Phố Huế
+- code: VN0010051
+  name: ABBANK Thái Nguyên
+- code: VN0010052
+  name: ABBANK TpHCM
+- code: VN0010053
+  name: ABBANK Kiên Giang
+- code: VN0010054
+  name: ABBANK Nam Đà Nẵng
+- code: VN0010055
+  name: ABBANK Minh Khai
+- code: VN0010056
+  name: ABBANK Đông Bến Thành
+- code: VN0010057
+  name: -Branch VN0010057-
+- code: VN0010058
+  name: ABBANK Tiền Giang
+- code: VN0010059
+  name: ABBANK Vĩnh Phúc
+- code: VN0010060
+  name: ABBANK Tây Sài Gòn
+- code: VN0010061
+  name: ABBANK Đội Cấn
+- code: VN0010062
+  name: ABBANK Phó Cơ Điều
+- code: VN0010063
+  name: ABBANK Bình Thủy
+- code: VN0010064
+  name: ABBANK Vũng Tàu
+- code: VN0010065
+  name: ABBANK Bà Rịa
+- code: VN0010067
+  name: ABBANK Bến Cát
+- code: VN0010068
+  name: ABBANK Sơn La
+- code: VN0010069
+  name: ABBANK Bạc Liêu
+- code: VN0010070
+  name: ABBANK Lò Đúc
+- code: VN0010071
+  name: ABBANK Thuận An
+- code: VN0010072
+  name: ABBANK Quảng Ninh
+- code: VN0010073
+  name: ABBANK Khánh Hòa
+- code: VN0010074
+  name: ABBANK Gia Lai
+- code: VN0010075
+  name: ABBANK Hải Phòng
+- code: VN0010076
+  name: ABBANK Cái Răng
+- code: VN0010077
+  name: ABBANK Đào Tấn
+- code: VN0010078
+  name: ABBANK Sông Hàn
+- code: VN0010079
+  name: ABBANK Đinh Tiên Hoàng
+- code: VN0010080
+  name: ABBANK Đông Anh
+- code: VN0010081
+  name: ABBANK Chánh Hưng
+- code: VN0010082
+  name: ABBANK Đại Kim
+- code: VN0010083
+  name: ABBANK Mỹ Đình
+- code: VN0010084
+  name: ABBANK Tân Bình
+- code: VN0010085
+  name: ABBANK Phú Giáo
+- code: VN0010086
+  name: ABBANK Thống Nhất
+- code: VN0010087
+  name: ABBANK Mai Sơn
+- code: VN0010088
+  name: ABBANK Hải Châu
+- code: VN0010089
+  name: ABBANK Cẩm Phả
+- code: VN0010090
+  name: ABBANK Liên Chiểu
+- code: VN0010091
+  name: ABBANK Bến Nghé
+- code: VN0010092
+  name: ABBANK Ngô Quyền
+- code: VN0010093
+  name: ABBANK Tân Uyên
+- code: VN0010094
+  name: ABBANK Nha Trang
+- code: VN0010095
+  name: ABBANK Tân Thuận
+- code: VN0010096
+  name: ABBANK Quang Trung Hà Đông
+- code: VN0010097
+  name: ABBANK Dầu Tiếng
+- code: VN0010098
+  name: ABBANK Trung Chánh
+- code: VN0010099
+  name: ABBANK Soái Kình Lâm
+- code: VN0010100
+  name: ABBANK Yên Phong
+- code: VN0010102
+  name: ABBANK Tây Hồ
+- code: VN0010103
+  name: ABBANK Từ Sơn
+- code: VN0010104
+  name: ABBANK KBANG
+- code: VN0010105
+  name: ABBANK Đông Hà Nội
+- code: VN0010106
+  name: ABBANK Bến Thành
+- code: VN0010107
+  name: ABBANK Tô Hiến Thành
+- code: VN0010108
+  name: ABBANK Mộc Châu
+- code: VN0010109
+  name: ABBANK Chợ Biên Hòa
+- code: VN0010110
+  name: ABBANK Uông Bí
+- code: VN0010111
+  name: ABBANK Sóc Trăng
+- code: VN0010112
+  name: ABBANK Bến Lức
+- code: VN0010113
+  name: ABBANK Minh Phụng
+- code: VN0010114
+  name: ABBANK Đông Ba
+- code: VN0010115
+  name: ABBANK Tao Đàn
+- code: VN0010116
+  name: ABBANK Tây Hà Nội
+- code: VN0010117
+  name: ABBANK Bàn Cờ
+- code: VN0010118
+  name: ABBANK Phố Hiến
+- code: VN0010119
+  name: ABBANK Quyết Tâm
+- code: VN0010120
+  name: ABBANK Quyết Thắng
+- code: VN0010121
+  name: ABBANK Núi Thành
+- code: VN0010122
+  name: ABBANK Hoàng Cầu
+- code: VN0010123
+  name: ABBANK Long Thành
+- code: VN0010124
+  name: ABBANK Cam Ranh
+- code: VN0010125
+  name: ABBANK Hoàng Mai
+- code: VN0010126
+  name: ABBANK Nguyễn Chánh
+- code: VN0010127
+  name: ABBANK Nam Thăng Long
+- code: VN0010128
+  name: ABBANK Trung Yên
+- code: VN0010129
+  name: ABBANK Vĩnh Yên
+- code: VN0010130
+  name: ABBANK Hố Nai
+- code: VN0010131
+  name: ABBANK Phổ Yên
+- code: VN0010132
+  name: ABBANK Trần Nguyên Hãn
+- code: VN0010133
+  name: ABBANK An Khánh
+- code: VN0010134
+  name: ABBANK Bắc Thăng Long
+- code: VN0010135
+  name: ABBANK Nguyễn Huệ
+- code: VN0010136
+  name: ABBANK PLEIKU
+- code: VN0010137
+  name: ABBANK Mỏ Bạch
+- code: VN0010138
+  name: ABBANK Phước Tỉnh
+- code: VN0010139
+  name: ABBANK Sốp Cộp
+- code: VN0010140
+  name: ABBANK Phúc Yên
+- code: VN0010141
+  name: ABBANK Mạo Khê
+- code: VN0010142
+  name: ABBANK Văn Lâm
+- code: VN0010143
+  name: ABBANK Đông Hải Phòng
+- code: VN0010144
+  name: ABBANK Bình Long
+- code: VN0010145
+  name: ABBANK Sông Mã
+- code: VN0010146
+  name: ABBANK Xuân Hòa
+- code: VN0010147
+  name: ABBANK Khoái Châu
+- code: VN0010148
+  name: ABBANK Yên Lạc
+- code: VN0010149
+  name: ABBANK Ba Mươi Tháng Tư
+- code: VN0010150
+  name: ABBANK Hội An
+- code: VN0010154
+  name: ABBANK Nghệ An
+- code: VN0010155
+  name: ABBANK Lạng Sơn
+- code: VN0010156
+  name: ABBANK Thanh Hóa
+- code: VN0010157
+  name: ABBANK Thái Bình
+- code: VN0010158
+  name: ABBANK Điện Biên
+- code: VN0010159
+  name: ABBANK Gò Dầu
+- code: VN0010160
+  name: ABBANK Chơn Thành
+- code: VN0010161
+  name: ABBANK Chư Sê
+- code: VN0010162
+  name: ABBANK Hồng Ngự
+- code: VN0010163
+  name: ABBANK Lộc Ninh
+- code: VN0010164
+  name: ABBANK Tân Châu
+- code: VN0010165
+  name: ABBANK Vạn Ninh
+- code: VN0010166
+  name: ABBANK Đại Từ
+- code: VN0010167
+  name: ABBANK Thuận Thành
+- code: VN0010168
+  name: ABBANK Đức Hòa
+- code: VN0010169
+  name: ABBANK Tánh Linh
+- code: VN0010170
+  name: ABBANK Phú Bài
+- code: VN0010171
+  name: ABBANK Nam Phước
+- code: VN0010172
+  name: ABBANK Đại Lộc
